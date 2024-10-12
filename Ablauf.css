@@ -591,15 +591,20 @@
   }
 
   .u-section-1 .u-text-5 {
-    margin-top: 59px;
-    margin-right: calc(((100% - 340px) / 2)  + -15px);
-    margin-left: calc(((100% - 340px) / 2)  + 180px);
+    margin-top: 63px;
+    margin-right: calc(((100% - 340px) / 2)  + 23px);
+    margin-left: calc(((100% - 340px) / 2)  + 165px);
+  }
+
+  .u-section-1 .u-line-3 {
+    top: 142px;
+    left: 147px;
   }
 
   .u-section-1 .u-text-6 {
-    margin-top: -512px;
-    margin-right: calc(((100% - 340px) / 2)  + 239px);
-    margin-left: calc(((100% - 340px) / 2));
+    margin-top: -515px;
+    margin-right: calc(((100% - 340px) / 2)  + 205px);
+    margin-left: calc(((100% - 340px) / 2)  + 35px);
   }
 }
 
